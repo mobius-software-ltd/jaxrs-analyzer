@@ -87,16 +87,7 @@
     <build>
         <finalName>jaxrs-analyzer</finalName>
 
-        <plugins>
-	    <plugin>
-		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>maven-compiler-plugin</artifactId>
-		<configuration>
-			<target>11</target>			
-			<source>11</source>			
-			<debug>11</debug>															
-		</configuration>									
-	    </plugin>	
+        <plugins>	    
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>

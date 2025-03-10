@@ -9,7 +9,7 @@
 
 	<groupId>com.mobius-software.plugins</groupId>
 	<artifactId>jaxrs-analyzer</artifactId>
-	<version>0.18</version>
+	<version>0.19-SNAPSHOT</version>
 	<name>JAX-RS Analyzer</name>
 	<packaging>jar</packaging>
 
@@ -142,7 +142,7 @@
 		<connection>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</connection>
 		<developerConnection>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</developerConnection>
 		<url>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</url>
-		<tag>jaxrs-analyzer-0.18</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<profiles>

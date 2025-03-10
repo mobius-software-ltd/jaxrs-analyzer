@@ -10,7 +10,7 @@
   <groupId>com.mobius-software.plugins</groupId>
   <artifactId>jaxrs-analyzer</artifactId>
   <name>JAX-RS Analyzer</name>
-  <version>0.18-SNAPSHOT</version>
+  <version>0.20-SNAPSHOT</version>
   <description>Generates REST documentation by analysing JAX-RS projects.</description>
   <url>https://github.com/sdaschner/jaxrs-analyzer</url>
   <developers>
@@ -30,6 +30,7 @@
     <connection>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</connection>
     <developerConnection>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</developerConnection>
     <url>scm:git:git@github.com:mobius-software-ltd/jaxrs-analyzer.git</url>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <finalName>jaxrs-analyzer</finalName>
